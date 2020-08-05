@@ -1,1 +1,1 @@
-Token And Prefix ARe Customize Able, index.js
+Token And Prefix Are Customize Able, index.js
